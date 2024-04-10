@@ -1,2 +1,2 @@
-# Work-is-TESLA-Group
-This is my first repository
+# Work-in-TESLA-Group
+This is my first Git repository
